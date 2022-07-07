@@ -1,34 +1,22 @@
 {
   "pokemons": [
     {
-      "id": 1,
-      "name": "Pikachu",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png/220px-Pok%C3%A9mon_Pikachu_art.png"
-    },
-    {
       "id": 2,
       "name": "Charmander",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Pok%C3%A9mon_Charmander_art.png/220px-Pok%C3%A9mon_Charmander_art.png"
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Pok%C3%A9mon_Charmander_art.png/220px-Pok%C3%A9mon_Charmander_art.png",
+      "liked": false
     },
     {
       "id": 3,
       "name": "Squirtle",
-      "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Pok%C3%A9mon_Squirtle_art.png"
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Pok%C3%A9mon_Squirtle_art.png",
+      "liked": true
     },
     {
       "id": 4,
       "name": "Bulbasaur",
-      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Pok%C3%A9mon_Bulbasaur_art.png"
-    },
-    {
-      "name": "Nicochu",
-      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/orra3dxp3r20ekk3mrja/1500226062.png?w=400&h=400&fit=crop&crop=faces&auto=compress",
-      "id": 6
-    },
-    {
-      "name": "Ed",
-      "image": "sdfds",
-      "id": 7
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Pok%C3%A9mon_Bulbasaur_art.png",
+      "liked": false
     }
   ]
 }

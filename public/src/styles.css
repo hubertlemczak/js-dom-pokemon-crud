@@ -15,7 +15,7 @@ body {
   margin-bottom: 10px;
 }
 
-.poke-form input[type="submit"] {
+.poke-form input[type='submit'] {
   padding: 10px 20px;
   background-color: #ffffff;
 
@@ -49,4 +49,8 @@ body {
 
 .pokemon h2 {
   text-align: center;
+}
+
+.liked {
+  background-color: rgb(255, 132, 160);
 }
